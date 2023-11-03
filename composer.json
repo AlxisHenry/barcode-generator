@@ -1,0 +1,5 @@
+{
+    "require": {
+        "barcode-bakery/barcode-1d": "^7.0"
+    }
+}
